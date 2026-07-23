@@ -1,0 +1,1 @@
+Store generated reports, charts, and exports.
