@@ -1,0 +1,61 @@
+seller_id,seller_name,category,region,join_date
+S0035,Allen PLC,Fashion,North,2022-11-11
+S0027,"Valencia, Smith and Le",Toys,West,2023-03-24
+S0036,Dennis Inc,Home & Kitchen,South,2023-11-30
+S0022,Burgess-Patterson,Fashion,Central,2023-04-12
+S0011,"Montgomery, Hensley and Ray",Toys,North,2022-11-02
+S0024,Campos Inc,Grocery,Unknown,2023-03-12
+S0025,Conner Group,Automotive,South,2022-08-10
+S0057,"Higgins, Moore and Phillips",Beauty,Central,2023-08-24
+S0034,Koch-Decker,Beauty,South,2022-07-17
+S0044,"Young, Caldwell and Lewis",Sports,Central,2022-11-25
+S0052,"Kidd, Huff and Novak",Pet Supplies,North,2022-07-08
+S0004,"Johnson, Gonzalez and Santos",Electronics,North,2022-09-27
+S0054,Barrera-Martin,Automotive,South,2023-02-23
+S0047,Owens-Daniel,Home & Kitchen,Unknown,2022-12-09
+S0032,"Lynch, Hernandez and Farmer",Automotive,East,2023-09-28
+S0048,"Garcia, Powell and Morgan",Automotive,Unknown,2023-06-19
+S0055,Baker-Bowers,Books,Central,2022-05-12
+S0026,James-Ferrell,Electronics,South,2023-05-03
+S0056,Horton-Cross,Automotive,Unknown,2023-02-08
+S0018,Underwood LLC,Sports,North,2023-08-19
+S0039,"Campos, Vaughn and Marquez",Automotive,East,2023-12-10
+S0043,"Brown, Jones and Johnson",Home & Kitchen,West,2022-06-22
+S0029,Chavez Ltd,Toys,South,2022-11-03
+S0030,Stanton-Gill,Grocery,West,2023-10-18
+S0007,Ramirez-Lewis,Automotive,West,2023-07-03
+S0059,Shaw-Farrell,Toys,West,2022-06-10
+S0003,Johnson and Sons,Automotive,North,2023-04-30
+S0053,Martin Group,Books,North,2023-11-17
+S0020,Lewis-Porter,Toys,South,2023-10-18
+S0041,Brown Inc,Automotive,East,2022-07-22
+S0033,"Sellers, George and Burns",Grocery,Central,2023-03-30
+S0005,Cole LLC,Beauty,Central,2023-04-02
+S0038,Rose-Obrien,Grocery,Central,2023-04-05
+S0001,Figueroa and Sons,Electronics,Unknown,2023-05-29
+S0006,Blake and Sons,Automotive,South,2023-09-08
+S0015,"Zuniga, Wong and Lynch",Grocery,North,2023-06-17
+S0051,Ramos PLC,Sports,South,2023-10-17
+S0042,Chapman Inc,Toys,North,2023-04-28
+S0046,Davis Group,Sports,Central,2023-01-10
+S0019,Clark PLC,Fashion,West,2023-01-06
+S0023,Robinson-Bright,Automotive,South,2023-04-26
+S0021,"Ellis, Baker and Wright",Beauty,East,2023-10-23
+S0058,"Fitzgerald, Brown and Edwards",Beauty,East,2023-12-13
+S0002,"Garcia, Yang and Gardner",Home & Kitchen,North,2022-09-21
+S0012,Stanley LLC,Fashion,East,2023-07-07
+S0014,"Flowers, Martin and Kelly",Books,Central,2022-10-24
+S0045,"Johnston, Sanchez and Kennedy",Automotive,North,2022-07-29
+S0060,"Miller, Lopez and Larson",Books,North,2022-08-13
+S0050,White-Ford,Fashion,East,2023-02-04
+S0016,"Sanchez, Ford and Nelson",Pet Supplies,East,2022-08-21
+S0013,Delacruz Group,Pet Supplies,East,2023-12-23
+S0008,Davis Inc,Pet Supplies,East,2023-08-12
+S0031,Harrell LLC,Home & Kitchen,South,2023-03-11
+S0049,Lee PLC,Pet Supplies,East,2023-10-10
+S0028,"Potter, Mack and Peterson",Beauty,Central,2023-06-24
+S0040,"Santos, Kim and Holmes",Electronics,North,2023-01-05
+S0037,"Cannon, Anderson and Alvarez",Grocery,Unknown,2023-12-18
+S0009,Munoz-Roman,Electronics,South,2022-12-12
+S0010,"Martinez, Nielsen and Miller",Toys,East,2023-07-22
+S0017,"Hawkins, Cohen and Cameron",Fashion,North,2023-11-17
